@@ -10,14 +10,12 @@
 
 2. Instale as dependências:
 
-npm install 
-# ou
+npm install ou
 yarn install
 
 3. Inicie o servirdor do desenvolvimento
 
-npm run dev
-# ou
+npm run dev  ou
 yarn dev
 
 4. Abra o navegador: 
