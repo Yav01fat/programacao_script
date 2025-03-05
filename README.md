@@ -5,7 +5,7 @@
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/Yav01fat/programacao_script/tree/main/pages
+   git clone https://github.com/Yav01fat/programacao_script/tree/main
    cd[Trabalho_Dama]
 
 2. Instale as dependências:
