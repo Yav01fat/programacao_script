@@ -11,9 +11,9 @@ export default function Home() {
       let piece = null;
 
       if (row < 3 && isBlack) {
-        piece = <div className={styles.piece} style={{ backgroundColor: '#FF69B4' }}></div>; // 
+        piece = <div className={styles.piece} style={{ backgroundColor: '#FF69B4' }}></div>; // Cor rosa
       } else if (row > 4 && isBlack) {
-        piece = <div className={styles.piece} style={{ backgroundColor: '#00BFFF' }}></div>; // 
+        piece = <div className={styles.piece} style={{ backgroundColor: '#00BFFF' }}></div>; // Cor azul
       }
 
       rowSquares.push(
